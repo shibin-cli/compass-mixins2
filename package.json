@@ -9,7 +9,7 @@
   "description": "Compass stylesheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shibin-cli/compass-mixins.git"
+    "url": "git://github.com/shibin-cli/compass-mixins2.git"
   },
   "main": "lib/_compass.scss",
   "keywords": [
