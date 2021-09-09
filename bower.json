@@ -1,0 +1,20 @@
+{
+  "name": "compass-mixins",
+  "version": "0.0.1",
+  "description": "Compass stylesheets",
+  "main": "lib/_compass.scss",
+  "keywords": [
+    "compass",
+    "mixins",
+    "sass",
+    "css3"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
